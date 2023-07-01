@@ -5,7 +5,7 @@
 	      	<div class="overlay"></div>
 	        <div class="container">
 	          <div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url(asset/images/chandlee1.png);">
+	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url(asset/images/leechang5.png);">
 	          		<div class="overlay"></div>
 	          	</div>
 		          <div class="one-forth d-flex  align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
@@ -24,7 +24,7 @@
 	      	<div class="overlay"></div>
 	        <div class="container">
 	          <div class="row d-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url(asset/images/chandlee2.png);">
+	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url(asset/images/leechang6.png);">
 	          		<div class="overlay"></div>
 	          	</div>
 		          <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
@@ -48,7 +48,7 @@
     			<div class="col-md-6 col-lg-5 d-flex">
     				<div class="img-about img d-flex align-items-stretch">
     					<div class="overlay"></div>
-	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(asset/images/chandlee2.png);">
+	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(asset/images/leechang4.png);">
 	    				</div>
     				</div>
     			</div>
@@ -61,9 +61,9 @@
 		            <ul class="about-info mt-4 px-md-0 px-2">
 		            	<li class="d-flex"><span>Name:</span> <span>Chandlee Rey Belarmino</span></li>
 		            	<li class="d-flex"><span>Date of birth:</span> <span>February 02, 2002</span></li>
-		            	<li class="d-flex"><span>Address:</span> <span>Tinangnan, Tubigon, Bohol</span></li>
+		            	<li class="d-flex"><span>Address:</span> <span>Tubigon, Bohol</span></li>
 		            	<li class="d-flex"><span>Zip code:</span> <span>6329</span></li>
-		            	<li class="d-flex"><span>Email:</span> <span>chandleerey54@gmail.com</span></li>
+		            	<li class="d-flex"><span>Email:</span> <span>Chandleerey54@gmail.com</span></li>
 		            	<li class="d-flex"><span>Phone: </span> <span>+63 951 2373 065</span></li>
 		            </ul>
 		          </div>
@@ -74,7 +74,7 @@
 	                <span class="number" data-number="15">0</span>
 	                <span>Projects Completed</span>
                 </p>
-                <p  id="downloadButton"><a href="<?=base_url();?>asset/document/resume2.pdf" download = "resume.pdf" class="btn btn-primary py-3 px-3">Download CV</a></p>
+                <p  id=""><a href="<?=base_url();?>asset/document/CV_ChandleeReyBelarmino.pdf" download="CV-ChandleeReyBelarmino" class="btn btn-primary py-3 px-3">Download CV</a></p>
               </div>
 	          </div>
 	        </div>
@@ -103,19 +103,19 @@
     					<span class="date">2008-2014</span>
     					<h2>Elementary</h2>
     					<span class="position">Tubigon West Central Elementary School</span>
-    					<p class="mt-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+    					<!-- <p class="mt-4"></p> -->
     				</div>
     				<div class="resume-wrap ftco-animate">
     					<span class="date">2014-2018</span>
     					<h2>Junior High School</h2>
     					<span class="position">Salus Institute of Technology</span>
-    					<p class="mt-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+    					<!-- <p class="mt-4"></p> -->
     				</div>
     				<div class="resume-wrap ftco-animate">
     					<span class="date">2018-2020</span>
     					<h2>Senior High School</h2>
     					<span class="position">Salus Institute of Technology</span>
-    					<p class="mt-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+    					<!-- <p class="mt-4"></p> -->
     				</div>
     			</div>
 
@@ -124,25 +124,25 @@
     					<span class="date">Bachelor of Science in Computer Science</span>
     					<h2>College</h2>
     					<span class="position">Bohol Island State University - Calape</span>
-    					<p class="mt-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+    					<!-- <p class="mt-4"></p> -->
     				</div>
     				<div class="resume-wrap ftco-animate">
     					<span class="date">Confickers Organization</span>
     					<h2>Member</h2>
     					<span class="position">Bohol Island State University - Calape</span>
-    					<p class="mt-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+    					<!-- <p class="mt-4"></p> -->
     				</div>
     				<div class="resume-wrap ftco-animate">
     					<span class="date">Digirati Organization</span>
     					<h2>Member</h2>
     					<span class="position">Bohol Island State University</span>
-    					<p class="mt-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+    					<!-- <p class="mt-4"></p> -->
     				</div>
     			</div>
     		</div>
     		<div class="row justify-content-center mt-5">
     			<div class="col-md-6 text-center ftco-animate">
-    				<p id="downloadBttn"><a href="<?=base_url();?>asset/document/resume2.pdf" download = "resume"  class="btn btn-primary py-4 px-5">Download CV</a></p>
+    				<p id="downloadBttn"><a href="<?=base_url();?>asset/document/resume.pdf" download = "Resume-ChandleeReyBelarmino"  class="btn btn-primary py-4 px-5">Download Resume</a></p>
     			</div>
     		</div>
     	</div>
@@ -156,7 +156,7 @@
           <div class="col-md-12 heading-section text-center ftco-animate">
           	<h1 class="big big-2">Services</h1>
             <h2 class="mb-4">Services</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+            <!-- <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p> -->
           </div>
         </div>
     		<div class="row">
@@ -217,7 +217,7 @@
 								<i class="flaticon-ideas"></i>
 							</span>
 							<div class="desc">
-								<h3 class="mb-5">Product Strategy</h3>
+								<h3 class="mb-5">Desktop Applications</h3>
 							</div>
 						</a>
 					</div>
@@ -233,7 +233,7 @@
           <div class="col-md-12 heading-section text-center ftco-animate">
           	<h1 class="big big-2">Skills</h1>
             <h2 class="mb-4">My Skills</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+            <!-- <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p> -->
           </div>
         </div>
 				<div class="row">
@@ -315,63 +315,63 @@
           <div class="col-md-12 heading-section text-center ftco-animate">
           	<h1 class="big big-2">Projects</h1>
             <h2 class="mb-4">My Projects</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+            <!-- <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p> -->
           </div>
         </div>
     		<div class="row">
     			<div class="col-md-4">
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(asset/images/project-4.jpg);">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(asset/images/proj2.jpg);">
     					<div class="overlay"></div>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="<?= base_url();?>asset/images/proj2.jpg">SmartCam</a></h3>
+	    					<span>Arduino-Based Project</span>
 	    				</div>
     				</div>
   				</div>
   				<div class="col-md-8">
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(asset/images/project-5.jpg);">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(asset/images/proj4.png);">
     					<div class="overlay"></div>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="#">Desktop Applications</a></h3>
+	    					<span>Java Netbeans</span>
 	    				</div>
     				</div>
   				</div>
 
     			<div class="col-md-8">
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(asset/images/project-1.jpg);">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(asset/images/proj3.jpg);">
     					<div class="overlay"></div>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="#">Android Applications</a></h3>
+	    					<span>Mobile Development</span>
 	    				</div>
     				</div>
 
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(asset/images/project-6.jpg);">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(asset/images/proj5.png);">
     					<div class="overlay"></div>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="#">Logo Design</a></h3>
+	    					<span>Photoshop</span>
 	    				</div>
     				</div>
     			</div>
     			<div class="col-md-4">
     				<div class="row">
     					<div class="col-md-12">
-		    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(asset/images/project-2.jpg);">
+		    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(asset/images/proj1.png);">
 		    					<div class="overlay"></div>
 			    				<div class="text text-center p-4">
-			    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-			    					<span>Web Design</span>
+			    					<h3><a href="<?=base_url();?>asset/images/proj1.png">Graphics &amp; Photo Manipulation</a></h3>
+			    					<span>Photoshop</span>
 			    				</div>
 		    				</div>
 	    				</div>
 	    				<div class="col-md-12">
-		    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(asset/images/project-3.jpg);">
+		    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(asset/images/dozecafe.png);">
 		    					<div class="overlay"></div>
 			    				<div class="text text-center p-4">
-			    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-			    					<span>Web Design</span>
+			    					<h3><a href="#">Web Design &amp; Development</a></h3>
+			    					<span>Using Free Templates</span>
 			    				</div>
 		    				</div>
 	    				</div>
@@ -388,7 +388,7 @@
           <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18">
               <div class="text">
-                <strong class="number" data-number="100">0</strong>
+                <strong class="number" data-number="10">0</strong>
                 <span>Awards</span>
               </div>
             </div>
@@ -396,7 +396,7 @@
           <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18">
               <div class="text">
-                <strong class="number" data-number="1200">0</strong>
+                <strong class="number" data-number="15">0</strong>
                 <span>Complete Projects</span>
               </div>
             </div>
@@ -404,7 +404,7 @@
           <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18">
               <div class="text">
-                <strong class="number" data-number="1200">0</strong>
+                <strong class="number" data-number="15">0</strong>
                 <span>Happy Customers</span>
               </div>
             </div>
@@ -412,7 +412,7 @@
           <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18">
               <div class="text">
-                <strong class="number" data-number="500">0</strong>
+                <strong class="number" data-number="50">0</strong>
                 <span>Cups of coffee</span>
               </div>
             </div>
@@ -426,7 +426,7 @@
 				<div class="row justify-content-center">
 					<div class="col-md-7 ftco-animate text-center">
 						<h2>I'm <span>Available</span> for freelancing</h2>
-						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+						<!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
 						<p class="mb-0"><a href="#" class="btn btn-primary py-3 px-5">Hire me</a></p>
 					</div>
 				</div>
@@ -440,7 +440,7 @@
           <div class="col-md-7 heading-section text-center ftco-animate">
             <h1 class="big big-2">Contact</h1>
             <h2 class="mb-4">Contact Me</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+            <!-- <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p> -->
           </div>
         </div>
 
@@ -451,7 +451,7 @@
           			<span class="icon-map-signs"></span>
           		</div>
           		<h3 class="mb-4">Address</h3>
-	            <p>Tinangnan, Tubigon, Bohol 6329</p>
+	            <p>Tubigon, Bohol 6329</p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -506,7 +506,7 @@
           </div>
 
           <div class="col-md-6 d-flex">
-          	<div class="img" style="background-image: url(asset/images/about.jpg);"></div>
+          	<div class="img" style="background-image: url(asset/images/aboutme.png);"></div>
           </div>
         </div>
       </div>
