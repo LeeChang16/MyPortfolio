@@ -69,9 +69,54 @@
   <script src="<?= base_url();?>asset/js/aos.js"></script>
   <script src="<?= base_url();?>asset/js/jquery.animateNumber.min.js"></script>
   <script src="<?= base_url();?>asset/js/scrollax.min.js"></script>
-  
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
   <script src="<?= base_url();?>asset/js/main.js"></script>
 
+<script>
+  // Email JS function
+window.onload = function() {
+	document.getElementById('contact-form').addEventListener('submit',function(event) { event.preventDefault();
+	
+		console.log('heyyy');
+	var templateParams = {
+		name : document.getElementById('name').value,
+		email : document.getElementById('email').value,
+		subject : document.getElementById('subject').value,
+		message : document.getElementById('message').value
+	}
+	emailjs.send('service_lss6for', 'template_jj9y288', templateParams, 'mm6ZuOkWRqi-mWMxz')
+    .then(function(response) {
+
+      //sweet alert
+
+      swal({
+             // title: "Sent Successfully!",
+        icon: "success",
+      });
+
+       console.log('SUCCESS!', response.status, response.text);
+    }, function(error) {
+
+      swal({
+             // title: "Sent Successfully!",
+        icon: "error",
+      });
+
+       console.log('FAILED...', error);
+    });
+
+    document.getElementById('name').value = "";
+  document.getElementById('email').value = "";
+  document.getElementById('subject').value = "";
+  document.getElementById('message').value = "";
+
+	});
+
+
+
+}
+
+</script>
  
     
   </body>

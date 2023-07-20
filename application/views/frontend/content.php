@@ -142,7 +142,7 @@
     		</div>
     		<div class="row justify-content-center mt-5">
     			<div class="col-md-6 text-center ftco-animate">
-    				<p id="downloadBttn"><a href="<?=base_url();?>asset/document/resume.pdf" download = "Resume-ChandleeReyBelarmino"  class="btn btn-primary py-4 px-5">Download Resume</a></p>
+    				<p id="downloadBttn"><a href="<?=base_url();?>asset/document/resume2.pdf" download = "Resume-ChandleeReyBelarmino"  class="btn btn-primary py-4 px-5">Download Resume</a></p>
     			</div>
     		</div>
     	</div>
@@ -241,9 +241,9 @@
 						<div class="progress-wrap ftco-animate">
 							<h3>Photoshop</h3>
 							<div class="progress">
-							 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="40"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:40%">
-							    <span>40%</span>
+							 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="45"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:45%">
+							    <span>45%</span>
 							  	</div>
 							</div>
 						</div>
@@ -252,9 +252,9 @@
 						<div class="progress-wrap ftco-animate">
 							<h3>Java</h3>
 							<div class="progress">
-							 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="50"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:50%">
-							    <span>50%</span>
+							 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="65"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:65%">
+							    <span>65%</span>
 							  	</div>
 							</div>
 						</div>
@@ -263,9 +263,9 @@
 						<div class="progress-wrap ftco-animate">
 							<h3>HTML</h3>
 							<div class="progress">
-							 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="60"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:60%">
-							    <span>60%</span>
+							 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="80"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
+							    <span>80%</span>
 							  	</div>
 							</div>
 						</div>
@@ -285,9 +285,9 @@
 						<div class="progress-wrap ftco-animate">
 							<h3>CodeIgniter</h3>
 							<div class="progress">
-							 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="45"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:45%">
-							    <span>45%</span>
+							 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="55"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:55%">
+							    <span>55%</span>
 							  	</div>  
 							</div>
 						</div>
@@ -296,9 +296,9 @@
 						<div class="progress-wrap ftco-animate">
 							<h3>Arduino</h3>
 							<div class="progress">
-							 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="60"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:60%">
-							    <span>60%</span>
+							 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="65"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:65%">
+							    <span>65%</span>
 							  	</div>  
 							</div>
 						</div>
@@ -485,18 +485,18 @@
 
         <div class="row no-gutters block-9">
           <div class="col-md-6 order-md-last d-flex">
-            <form action="#" class="bg-light p-4 p-md-5 contact-form">
+            <form class="bg-light p-4 p-md-5 contact-form" id="contact-form" >
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Name">
+                <input type="text" class="form-control" id='name' placeholder="Your Name">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Email">
+                <input type="text" class="form-control" id='email' placeholder="Your Email">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Subject">
+                <input type="text" class="form-control" id='subject' placeholder="Subject">
               </div>
               <div class="form-group">
-                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+                <textarea name="" id="message" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
               </div>
               <div class="form-group">
                 <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">

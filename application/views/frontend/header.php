@@ -21,6 +21,22 @@
     <link rel="stylesheet" href="<?= base_url();?>asset/css/flaticon.css">
     <link rel="stylesheet" href="<?= base_url();?>asset/css/icomoon.css">
     <link rel="stylesheet" href="<?= base_url();?>asset/css/style.css">
+
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+
+        
+</script>
+
+<!--Email JS CDN-->
+<script type="text/javascript">
+   (function(){
+      emailjs.init("mm6ZuOkWRqi-mWMxz");
+   })();
+</script>
+
+
+
   </head>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 	  
